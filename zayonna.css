@@ -1,0 +1,17 @@
+.black-slide {background-color: black;
+              padding: 7% 15%;}
+
+h1 {color: white;
+line-height: 1.5}
+
+.big-img {width:100%}
+
+.container-fluid{}
+
+  .logo-img {width:30%;}
+  .thick-line {
+   border: 2px solid black;
+   opacity: 1;
+  }
+
+  h2 {padding : 1% 3% 0% 3%}
